@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvangudimella&label=Profile%20views&color=0e75b6&style=flat" alt="sarvangudimella" /> </p>
 
-- 🌱 I’m currently learning **Wireshark, Metasploit, Burp Suite**
+- 🌱 I’m currently learning **React and Node.js, Metasploit, Burp Suite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
